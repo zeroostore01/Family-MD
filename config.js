@@ -43,12 +43,12 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.dtu = '𝐓𝐚𝐬𝐲𝐚𝐚 X 𝙕𝘼𝙆𝙔𝙔'
+global.urlnya = "https://chat.whatsapp.com/CXTWVx3Dny7JkVUZ975NFa"
 
 //============= callButtons =============//
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.dtc = '𝐓𝐚𝐬𝐲𝐚𝐚'
+global.phn = '+6283890585717'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -63,7 +63,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = '𝐓𝐚𝐬𝐲𝐚𝐚 X 𝙕𝘼𝙆𝙔𝙔'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
