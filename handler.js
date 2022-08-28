@@ -321,7 +321,7 @@ module.exports = {
                     anticall: true,
                     backup: false,
                     backupDB: 0,
-                    groupOnly: false,
+                    groupOnly: true,
                     jadibot: false,
                     status: 0,
                     epe: true,
