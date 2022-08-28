@@ -11,9 +11,7 @@ let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli Paketan v: agar bot bisa jalan_
 │ _24jam tanpa kendala_
-│ Group JB : https://chat.whatsapp.com/CXTWVx3Dny7JkVUZ975NFa
-│ Group Bot : https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp
-╰────
+╰───
 `.trim(), wm, 'Menu', usedPrefix + 'menu', m) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['about']
