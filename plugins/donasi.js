@@ -1,15 +1,18 @@
-const qrku = "https://i.ibb.co/MnbqZ0N/qr-Aguz-Familia-07-06-22-1654614928.png"
+const qrku = "https://telegra.ph/file/27bd9e930fed78850070f.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku, `
 ╭─「 Donasi • Dana 」
-│ • Telkomsel [081320170984]
-│ • Dana  [081320170984]
+│ • Axis [083830815715]
+│ • Dana  [085784914140]
+│ • Gopay [083890585717]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/6281320170984
+│ > Ingin donasi? Wa.me/6283890585717
 │ _Hasil donasi akan digunakan buat sewa_
-│ _atau beli *RDP/VPS* agar bot bisa jalan_
+│ _atau beli Paketan v: agar bot bisa jalan_
 │ _24jam tanpa kendala_
+│ Group JB : https://chat.whatsapp.com/CXTWVx3Dny7JkVUZ975NFa
+│ Group Bot : https://chat.whatsapp.com/IL34QSFDRT7LyAWiicXpBp
 ╰────
 `.trim(), wm, 'Menu', usedPrefix + 'menu', m) // Tambah sendiri kalo mau
 handler.help = ['donasi']
